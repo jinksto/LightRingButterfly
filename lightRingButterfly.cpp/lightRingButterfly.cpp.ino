@@ -1,5 +1,6 @@
 //C++ code for Arduino UNO REV3 [A000066]
 //Adafruit 24 RGB LED Neopixel Ring
+//Code by Jinksto
 
 
 #include <Adafruit_NeoPixel.h>
